@@ -1,0 +1,2 @@
+C:\Users\Access\source\repos\ConsoleApplication4\ConsoleApplication4\x64\Debug\ConsoleApplication4.vcxproj.CopyComplete
+D:\level 2\semester 1\OOP\A3\Task6\ConsoleApplication4\x64\Debug\ConsoleApplication4.vcxproj.CopyComplete
